@@ -1,0 +1,4 @@
+Resolusi Tias 2022 
+1. Menuntaskan belajar framework php dan javascript
+2. menuntaskan belajar git & github
+3. Bangun portofolio beneran
